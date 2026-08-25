@@ -1,0 +1,11 @@
+#!/bin/bash
+#SBATCH -A pdrineas
+#SBATCH --time=4:00:00
+#SBATCH --partition=cpu
+#SBATCH --qos=standby
+#SBATCH --job-name=admix_summ
+#SBATCH --mem=32000
+
+
+
+Rscript --verbose /scratch/negishi/chen4422/hapnest/Simulation_update/simu_region_admix/5_result_summarzing.R
