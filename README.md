@@ -111,3 +111,9 @@ The `Real_data/three_ancestry/` directory contains the corresponding EUR/AFR/EAS
 **External tools:** METAL, SuSiEx, SLALOM, MultiSuSiE (Python)
 
 **Input data:** EUR and AFR LD reference panels (1000 Genomes); GWAS summary statistics from All of Us cohorts.
+
+## Citation
+
+If you use these analysis scripts in your research, please cite:
+
+> Chen G, Paschou P, Gao B. Systematic benchmarking of multi-ancestry fine-mapping under variant heterogeneity and LD mismatch. *Briefings in Bioinformatics*. 2026;27(5):bbag574. [https://doi.org/10.1093/bib/bbag574](https://doi.org/10.1093/bib/bbag574).
